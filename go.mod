@@ -24,7 +24,7 @@ require (
 	github.com/miekg/dns v1.1.50
 	github.com/miekg/pkcs11 v1.1.1
 	github.com/prometheus/client_golang v1.14.0
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.5.0
 	github.com/titanous/rocacheck v0.0.0-20171023193734-afe73141d399
 	github.com/weppos/publicsuffix-go v0.30.1-0.20230620154423-38c92ad2d5c6
 	github.com/zmap/zcrypto v0.0.0-20230310154051-c8b263fd8300
@@ -42,7 +42,7 @@ require (
 	golang.org/x/term v0.9.0
 	golang.org/x/text v0.12.0
 	google.golang.org/grpc v1.57.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.31.0
 	gopkg.in/go-jose/go-jose.v2 v2.6.1
 	gopkg.in/yaml.v3 v3.0.1
 )
